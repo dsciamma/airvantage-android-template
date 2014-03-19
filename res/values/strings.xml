@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Airvantage Android Template</string>
+    <string name="sierra_logo">Sierra Wireless Logo</string>
+    <string name="login_required">You need to be logged in</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+    <!-- Parameters -->
+    <string name="airvantage_server">na.airvantage.net</string>
+    <string name="airvantage_client_id">api_client_id</string>
+    <string name="airvantage_client_secret">api_client_secret</string>
+</resources>
